@@ -1,0 +1,1 @@
+SELECT * FROM lesson_1.hw1;
